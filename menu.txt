@@ -1,0 +1,6 @@
+Burger,1,450,5
+Pizza,2,1200,8
+Sandwich,3,350,3
+Pasta,4,600,6
+Fries,5,200,2
+Coke,6,100,1
