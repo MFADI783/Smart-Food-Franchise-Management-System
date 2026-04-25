@@ -156,7 +156,7 @@ DishName, ID, Price(PKR), PrepTime(seconds)
 
 ## 👨‍💻 Author
 
-**Hassan Bukhari**  
+**Muhammad Fawad*  
 *Systems & Concurrent Programming — C++ Multithreaded Project*
 
 ---
